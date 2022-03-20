@@ -1,0 +1,146 @@
+#brandImg{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.nav-item:hover{
+    border-bottom: solid red;
+}
+#navclr:hover{
+    color: red;
+}
+#homeWall{
+    background-image: url(/homeWall.JPG);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#welcomeImg{
+    height: 200px;
+    width: 300px;
+    border-radius: 50%;
+}
+#welcomeImgg{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#welcomeText{
+    color: white;
+}
+
+#about{
+    padding-top: 2%;
+    background-color: #161147f5;
+}
+
+#countdown{
+    padding: 2%;
+}
+#elt{
+    padding: 1%;
+}
+.card-body{
+    color: white;
+    font-size: large;
+}
+#Schedule{
+    padding: 2%;
+}
+.imgimg{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+#bodyText{
+    font-size: 15px;
+}
+#modalImg{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+#cardd{
+    border-bottom: solid 1px black;
+}
+#timeSch{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#Gallery{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#register{
+    background-image: url(/checkin.JPG);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#registerText{
+    color: palegreen;
+}
+#galleryTitle{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#description{
+    color: white;
+}
+#countdownTitle{
+    color: black;
+}
+#SchTitle{
+    color: black;
+}
+#galleryTitle{
+    color: black;
+}
+#regDesc{
+    color: white;
+}
+hr{
+    color: white;
+}
+#aboutImg{
+    height: 200px;
+    width: 300px;
+}
+#sponsors{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#eventManager{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+#Sponsors{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#spImg{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+#spRow{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#iframe{
+    height: 300px;
+    width: 470px;
+}
